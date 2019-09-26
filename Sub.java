@@ -1,7 +1,5 @@
-public class Sub
-{
-int subtract (int a, int b)
-{
-System.out.println (a-b);
-}
+public class Sub {
+    public void subtract(int a, int b) {
+        System.out.println("Subtraction is:"+(a - b));
+    }
 }

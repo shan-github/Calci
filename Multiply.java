@@ -1,5 +1,5 @@
-public class Multiply
-int multiply (int a,int b){
-System.out.println(a*b); 
-}
+public class Multiply {
+    public void multiply(int a, int b) {
+        System.out.println("Multiplication is :" + (a * b));
+    }
 }
